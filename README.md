@@ -1,5 +1,5 @@
 # ID Mapper
-Identifier mapping
+OLD VERSION:   Identifier mapping
 
 This is a Cytoscape app which allows identifier mapping on tables.   Once this app is installed, the table browser will respond to a right click on the column header with a pop-up menu containing the item **Map Column...**  
 
