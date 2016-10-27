@@ -1,3 +1,6 @@
+THIS IS AN OBSOLETE VERSION -- see idmap-mmpl
+
+
 # ID Mapper
 Identifier mapping
 
